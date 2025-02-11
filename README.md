@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Satu!
+
+### About me:
+<p>I am pursuing a Master's degree in Computer Engineering, specializing in software quality assurance, testing, artificial intelligence, and data analytics.</p>
+
+### How to reach me:
+<p><a href="https://www.linkedin.com/in/satu-laukkanen/">LinkedIn</a></p>
+
 
 <!--
 **satumainen/satumainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
