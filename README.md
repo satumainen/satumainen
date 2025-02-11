@@ -3,9 +3,18 @@
 ### About me:
 <p>I am pursuing a Master's degree in Computer Engineering, specializing in software quality assurance, testing, artificial intelligence, and data analytics.</p>
 
+### I am currently learning
+<ul>
+<li>💻 Machine Learning Course 5 ECTS</li>
+<li>🐍 Python projects with 100 Days of Code</li>
+<li>📝 Studying for ISTQB Foundation Level certification</li>
+</ul>
+
 ### How to reach me:
 <p><a href="https://www.linkedin.com/in/satu-laukkanen/">LinkedIn</a></p>
 
+### Fun fact
+<p>📓 I originally planned to become a children's librarian but ended up working mostly with library IT systems — that’s where I discovered my passion and made the transition into tech!</p>
 
 <!--
 **satumainen/satumainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
