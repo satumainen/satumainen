@@ -11,7 +11,7 @@
 </ul>
 
 ### How to reach me:
-<p><a href="https://www.linkedin.com/in/satu-laukkanen/">LinkedIn</a></p>
+<p><a href="https://www.linkedin.com/in/satu-laukkanen/" target="_blank">LinkedIn</a></p>
 
 ### Fun fact
 <p>📓 I originally planned to become a children's librarian but ended up working mostly with library IT systems — that’s where I discovered my passion and made the transition into tech!</p>
