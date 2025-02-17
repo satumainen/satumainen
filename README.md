@@ -7,7 +7,7 @@
 <ul>
 <li>💻 Machine Learning Course 5 ECTS</li>
 <li>🐍 Python projects with 100 Days of Code</li>
-<li>📝 Studying for ISTQB Foundation Level certification</li>
+<li>📝 Studying for the ISTQB Foundation Level certification</li>
 </ul>
 
 ### How to reach me:
