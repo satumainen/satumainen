@@ -5,7 +5,8 @@
 
 ### I am currently learning
 <ul>
-<li>💻 Machine Learning Course 5 ECTS</li>
+<li>💻 Introduction to Human Language Technology 5 ECTS</li>
+<li>📋 Software Testing & Quality Assurance 5 ECTS</li>
 <li>🐍 Python projects with 100 Days of Code</li>
 <li>📝 Studying for the ISTQB Foundation Level certification</li>
 </ul>
