@@ -1,7 +1,7 @@
 ## Hi, I'm Satu!
 
 ### About me:
-<p>I am pursuing a Master's degree in Computer Engineering, specializing in software quality assurance, testing, artificial intelligence, and data analytics.</p>
+<p>I am pursuing a Master's degree in Computer Engineering, specializing in software quality assurance, testing, artificial intelligence, and machine learning.</p>
 
 ### I am currently learning
 <ul>
