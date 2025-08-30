@@ -3,12 +3,15 @@
 ### About me:
 <p>I am pursuing a Master's degree in Computer Engineering, specializing in software quality assurance, testing, artificial intelligence, and machine learning.</p>
 
+### Certifications
+<ul>
+  <li>ISTQB® Certified Tester Foundation Level</li>
+</ul>
+
 ### I am currently learning
 <ul>
 <li>📋 Writing my Master's thesis</li>
 <li>💻 Test automation with Test Automation University</li>
-<li>🐍 Python projects with 100 Days of Code</li>
-<li>📝 Studying for the ISTQB Foundation Level certification</li>
 </ul>
 
 ### How to reach me:
