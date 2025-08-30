@@ -3,16 +3,17 @@
 ### About me:
 <p>I am pursuing a Master's degree in Computer Engineering, specializing in software quality assurance, testing, artificial intelligence, and machine learning.</p>
 
-### Certifications
-<ul>
-  <li>ISTQB® Certified Tester Foundation Level</li>
-</ul>
-
 ### I am currently learning
 <ul>
 <li>📋 Writing my Master's thesis</li>
 <li>💻 Test automation with Test Automation University</li>
 </ul>
+
+### Certifications
+<ul>
+  <li>ISTQB® Certified Tester Foundation Level</li>
+</ul>
+
 
 ### How to reach me:
 <p><a href="https://www.linkedin.com/in/satu-laukkanen/ target="_blank">LinkedIn</a></p>
