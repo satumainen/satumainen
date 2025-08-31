@@ -7,6 +7,7 @@
 <ul>
 <li>📋 Writing my Master's thesis</li>
 <li>💻 Test automation with Test Automation University</li>
+<li>Looking forward to BBST Foundations (October-November 2025)</li>
 </ul>
 
 ### Certifications
