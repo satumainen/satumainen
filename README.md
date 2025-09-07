@@ -5,9 +5,9 @@
 
 ### I am currently learning
 <ul>
-<li>📋 Writing my Master's thesis</li>
-<li>💻 Robot Framework</li>
-<li>💡 Looking forward to BBST Foundations (October-November 2025)</li>
+  <li>💻 Robot Framework</li>
+  <li>📋 Writing my Master's thesis</li>
+  <li>💡 Looking forward to BBST Foundations (October-November 2025)</li>
 </ul>
 
 ### Certifications
