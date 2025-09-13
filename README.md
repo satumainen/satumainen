@@ -12,7 +12,7 @@
 
 ### Certifications
 <ul>
-  <li>ISTQB® Certified Tester Foundation Level</li>
+  <li>ISTQB® Certified Tester Foundation Level (August 2025)</li>
 </ul>
 
 
