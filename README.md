@@ -6,7 +6,7 @@
 ### I am currently learning
 <ul>
   <li>💻 Robot Framework</li>
-  <li>📋 Writing my Master's thesis</li>
+  <li>📋 Researching topics for my Master's thesis</li>
   <li>💡 Looking forward to BBST Foundations (October-November 2025)</li>
 </ul>
 
@@ -15,6 +15,12 @@
   <li>ISTQB® Certified Tester Foundation Level (August 2025)</li>
 </ul>
 
+### Next Steps
+<ul>
+  <li>API Testing with Postman</li>
+  <li>AWS Cloud Certified Practitioner</li>
+  <li>Docker</li>
+</ul>
 
 ### How to reach me:
 <p><a href="https://www.linkedin.com/in/satu-laukkanen/ target="_blank">LinkedIn</a></p>
