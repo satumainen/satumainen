@@ -27,7 +27,7 @@
 <p><a href="https://www.linkedin.com/in/satu-laukkanen/ target="_blank">LinkedIn</a></p>
 
 ### Fun fact
-<p>📓 I originally planned to become a children's librarian but ended up working mostly with library IT systems — that’s where I discovered my passion and made the transition into tech!</p>
+<p>📓 I originally planned to become a children's librarian but ended up working mostly with library IT systems. That’s where I discovered my passion and made the transition into tech!</p>
 
 <!--
 **satumainen/satumainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
