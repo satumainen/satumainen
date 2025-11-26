@@ -7,11 +7,12 @@
 <ul>
   <li>💻 Robot Framework</li>
   <li>📋 Researching topics for my Master's thesis</li>
-  <li>💡 Looking forward to BBST Foundations (October-November 2025)</li>
+  <li>💡 Looking forward to BBST Test Design (March 2026)</li>
 </ul>
 
 ### Certifications
 <ul>
+  <li>BBST® Foundations (November 2025)</li>
   <li>ISTQB® Certified Tester Foundation Level (August 2025)</li>
 </ul>
 
