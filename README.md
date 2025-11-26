@@ -19,7 +19,6 @@
 ### Next Steps
 <ul>
   <li>API Testing with Postman</li>
-  <li>BBST Test Design & Bug Advocacy</li>
   <li>AWS Cloud Certified Practitioner</li>
   <li>Docker</li>
 </ul>
