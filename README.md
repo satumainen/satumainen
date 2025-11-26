@@ -18,9 +18,9 @@
 
 ### Next Steps
 <ul>
-  <li>API Testing with Postman</li>
-  <li>AWS Cloud Certified Practitioner</li>
-  <li>Docker</li>
+  <li>🧩 API Testing with Postman</li>
+  <li>☁️ AWS Cloud Certified Practitioner</li>
+  <li>🐋 Docker</li>
 </ul>
 
 ### How to reach me:
