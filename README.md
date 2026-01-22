@@ -5,7 +5,7 @@
 
 ### I am currently learning
 <ul>
-  <li>💻 Robot Framework</li>
+  <li>💻 Robot Framework & Browser library</li>
   <li>🧩 API Testing with Postman</li>
   <li>📋 Researching topics for my Master's thesis</li>
   <li>💡 Looking forward to BBST Test Design (March 2026)</li>
