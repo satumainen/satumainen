@@ -8,11 +8,11 @@
   <li>💻 Robot Framework & Browser library</li>
   <li>🧩 API Testing with Postman</li>
   <li>📋 Researching topics for my Master's thesis</li>
-  <li>💡 BBST Test Design (March 2026)</li>
 </ul>
 
 ### Certifications
 <ul>
+  <li>BBST Test Design (April 2026)</li>
   <li>BBST® Foundations (November 2025)</li>
   <li>ISTQB® Certified Tester Foundation Level (August 2025)</li>
 </ul>
