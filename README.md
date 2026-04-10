@@ -5,7 +5,6 @@
 
 ### I am currently learning
 <ul>
-  <li>💻 Robot Framework & Browser library</li>
   <li>🧩 API Testing with Postman</li>
   <li>📋 Researching topics for my Master's thesis</li>
 </ul>
